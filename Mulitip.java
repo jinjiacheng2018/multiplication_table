@@ -1,5 +1,6 @@
 public class Mulitip{
 	
+	// 测试main方法
 	public static void main(String[] args){
 		// 打印九九乘法表
 		for (int i = 1; i < 10; i++){
